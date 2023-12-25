@@ -3,7 +3,7 @@ package CoreJava.src;
 public class Lab003_AssignmentOperators {
     public static void main(String[] args) {
         /*
-                                    Assignment operators
+                                    Assignment Operators
                                   ---------------------
 Operator	    Example	        Same As
     =	        x = 5	        x = 5

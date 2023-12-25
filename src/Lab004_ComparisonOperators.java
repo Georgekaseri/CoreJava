@@ -3,7 +3,7 @@ package CoreJava.src;
 public class Lab004_ComparisonOperators {
     public static void main(String[] args) {
         /*
-                                Comparison operators
+                                Comparison Operators
                               --------------------
 Operator	    Name        	            Example
     ==	        Equal to        	        x == y

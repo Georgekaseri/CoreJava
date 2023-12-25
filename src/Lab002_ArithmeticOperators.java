@@ -3,7 +3,7 @@ package CoreJava.src;
 public class Lab002_ArithmeticOperators {
     public static void main(String[] args) {
 /*
-                            Arithmetic operators
+                            Arithmetic Operators
                             -------------------
 Operator	Name	        Description	                            Example
     +	    Addition	    Adds together two values	             x + y
