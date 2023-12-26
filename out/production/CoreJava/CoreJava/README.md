@@ -14,7 +14,7 @@ This repository contains fundamental Java programs focusing on various topics su
 8. Increment Operators
 9. Decrement Operators
 10. Boolean operators
-11. If else Condition
+10. Conditions Statement
 
 Variables : 
 The `Variables` section introduces the concept of variables in Java. It includes examples demonstrating the declaration, initialization, and usage of various types of variables.
