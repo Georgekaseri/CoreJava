@@ -13,6 +13,8 @@ This repository contains fundamental Java programs focusing on various topics su
 7. String and Methods
 8. Increment Operators
 9. Decrement Operators
+10. Boolean operators
+10. If else Condition
 
 Variables : 
 The `Variables` section introduces the concept of variables in Java. It includes examples demonstrating the declaration, initialization, and usage of various types of variables.
@@ -41,5 +43,11 @@ Understand the increment operators (`++`) in Java. This section demonstrates how
 
 Decrement Operators :
 Learn about the decrement operators (`--`) in Java. The `Decrement Operators` section includes examples illustrating the decrement operators' application for decreasing the value of variables.
+
+Boolean operators :
+Introduce boolean operators in Java, including AND (&&), OR (||), and NOT (!). The Boolean Operators section demonstrates how these operators are used for logical operations and decision-making.
+
+Conditions Statements
+Learn how to use Conditional Statements in Java, including if, else if, else, and switch statements. This section provides examples to illustrate how to make decisions based on different conditions in your programs.
 
 Feel free to explore each section independently to deepen your understanding of Core Java concepts. Happy coding!
