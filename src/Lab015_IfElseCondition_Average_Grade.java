@@ -2,7 +2,7 @@ package CoreJava.src;
 
 import java.util.Scanner;
 
-public class Lab011_IfElseCondition_Average_Grade {
+public class Lab015_IfElseCondition_Average_Grade {
     public static void main(String[] args) {
         /*
         This program calculates the grade of a student based on the marks entered
@@ -22,6 +22,16 @@ if score is >= 80 && <= 100 print A
 else if score >=60 && <79 Print B
 else if score >= 40 && <59 Print C
 else Print Grade D
+
+if (Condition) {
+            System.out.println("Write statement here");
+        }
+        else if (condition) {
+        System.out.println("Write statement here");
+        }
+        else{
+            System.out.println("Write statement here");
+        }
 
          */
         // 3. Write the real code
