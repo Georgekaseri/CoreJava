@@ -1,4 +1,4 @@
-package CoreJava.src.Lab023_To_Lab026_ArrayAndMethods;
+package CoreJava.src.Lab023_To_Lab028_ArrayAndMethods;
 
 public class Lab023_Array_Declaration {
     public static void main(String[] args) {
