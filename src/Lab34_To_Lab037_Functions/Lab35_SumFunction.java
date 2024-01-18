@@ -1,4 +1,4 @@
-package CoreJava.src.Lab34_To_Lab037;
+package CoreJava.src.Lab34_To_Lab037_Functions;
 
 public class Lab35_SumFunction {
     public static void main(String[] args) {
