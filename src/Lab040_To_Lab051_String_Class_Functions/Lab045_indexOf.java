@@ -1,4 +1,4 @@
-package CoreJava.src.Lab040_To_Lab045_String_Class_Functions;
+package CoreJava.src.Lab040_To_Lab051_String_Class_Functions;
 
 public class Lab045_indexOf {
     public static void main(String[] args) {

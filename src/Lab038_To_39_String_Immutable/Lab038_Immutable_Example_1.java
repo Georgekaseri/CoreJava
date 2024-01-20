@@ -8,7 +8,10 @@ public class Lab038_Immutable_Example_1 {
         */
                // Here is an example that demonstrates the immutability of strings in Java:
 
-        String str1 = "Hello";
+
+
+        String str1 = "Hello"; // String Constant Pool
+        String newname = new String("New Name"); //Heap Area
         String str2 = str1.concat(" World");
         System.out.println(str1); // Output: Hello
         System.out.println(str2); // Output: Hello World
