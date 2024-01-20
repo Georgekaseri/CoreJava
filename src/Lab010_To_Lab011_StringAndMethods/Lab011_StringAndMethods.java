@@ -56,7 +56,7 @@ valueOf()	            Returns the string representation of the specified value	S
         System.out.println(txt1.toUpperCase());   // Outputs "HELLO WORLD"
         System.out.println(txt1.toLowerCase());   // Outputs "hello world"
 
-        String txt2 = "Please locate where 'locate' occurs!";
+        String txt2 = "Please locate where locate occurs!";
         System.out.println(txt2.indexOf("locate")); // Outputs 7
 
 
