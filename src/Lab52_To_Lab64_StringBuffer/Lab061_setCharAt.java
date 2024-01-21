@@ -1,4 +1,4 @@
-package CoreJava.src.Lab52_To_Lab60_StringBuffer;
+package CoreJava.src.Lab52_To_Lab64_StringBuffer;
 
 public class Lab061_setCharAt {
     public static void main(String[] args) {

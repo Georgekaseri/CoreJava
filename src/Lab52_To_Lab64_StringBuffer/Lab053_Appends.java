@@ -1,6 +1,6 @@
-package CoreJava.src.Lab52_To_Lab60_StringBuffer;
+package CoreJava.src.Lab52_To_Lab64_StringBuffer;
 
-public class Lab054_Delete {
+public class Lab053_Appends {
     public static void main(String[] args) {
 
         /*
