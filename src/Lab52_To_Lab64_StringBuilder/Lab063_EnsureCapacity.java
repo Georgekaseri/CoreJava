@@ -1,4 +1,4 @@
-package CoreJava.src.Lab52_To_Lab64_StringBuffer;
+package CoreJava.src.Lab52_To_Lab64_StringBuilder;
 
 public class Lab063_EnsureCapacity {
     public static void main(String[] args) {
