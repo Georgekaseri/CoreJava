@@ -8,11 +8,13 @@ public class Lab054_Delete {
 Append() Appends the specified character(s) or object to the end of the string
          */
 
-        StringBuilder NewStringBuilder = new StringBuilder("I am from");
-        System.out.println(NewStringBuilder.append(" United Kingdom"));
+        StringBuilder str = new StringBuilder("I am from United Kingdom");
 
-        StringBuilder CourseName = new StringBuilder("I am learning");
-        CourseName.append(" Java");
-        System.out.println(CourseName.toString());
+        str.delete(10,16);
+        System.out.println(str);
+
+
+
+
     }
 }

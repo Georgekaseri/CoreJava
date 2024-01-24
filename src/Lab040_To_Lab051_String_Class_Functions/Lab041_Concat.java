@@ -12,5 +12,7 @@ Example: "hello".concat(" world") returns "hello world".
         System.out.println(str1); // Output: Hello
         System.out.println(str2); // Output: Hello World
 
+
+
     }
 }
