@@ -1,6 +1,6 @@
 package CoreJava.src.Lab065_To_Lab080_OOPS;
 
-public class Dog_Class {
+public class Lab065_Dog_Class {
 
     // // Attribute / Data Member / Variable
     String Breed;

@@ -1,6 +1,6 @@
 package CoreJava.src.Lab065_To_Lab080_OOPS;
 
-public class Person {
+public class Lab067_Person_Class {
 
     /*
     Every class in Java can be composed of the following elements:

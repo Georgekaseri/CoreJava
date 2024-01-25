@@ -10,7 +10,7 @@ public class Lab059_charAt {
 
         StringBuilder str = new StringBuilder("Leeds, West Yorkshire");
 
-        System.out.println(str.charAt(0));
+        System.out.println(str.charAt(7));
 
 
 
