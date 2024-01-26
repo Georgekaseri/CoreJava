@@ -1,6 +1,6 @@
-package CoreJava.src.Lab065_To_Lab080_OOPS;
+package CoreJava.src.Lab065_To_Lab075_OOPS;
 
-public class Lab065_Dog_Class {
+public class Dog_Class {
 
     // // Attribute / Data Member / Variable
     String Breed;
@@ -18,5 +18,7 @@ public class Lab065_Dog_Class {
     }
     void sitAndRun (){
         System.out.println("They sit and run around");
+
+
     }
 }

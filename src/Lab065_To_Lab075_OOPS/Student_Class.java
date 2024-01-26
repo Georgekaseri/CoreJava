@@ -1,6 +1,6 @@
-package CoreJava.src.Lab065_To_Lab080_OOPS;
+package CoreJava.src.Lab065_To_Lab075_OOPS;
 
-public class Lab068_Student_Class {
+public class Student_Class {
 
     String name;
     double gpa;
