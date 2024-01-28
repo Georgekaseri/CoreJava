@@ -9,6 +9,7 @@ public class Lab018_Scanner_Grade {
         System.out.println("Enter English Marks");
         double a = sc.nextDouble();
 
+
         System.out.println("Enter Hindi Marks");
         double b = sc.nextDouble();
 
