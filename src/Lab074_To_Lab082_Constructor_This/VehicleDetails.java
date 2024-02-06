@@ -1,4 +1,4 @@
-package CoreJava.src.Lab074_To_Lab080_Constructor_This;
+package CoreJava.src.Lab074_To_Lab082_Constructor_This;
 
 public class VehicleDetails {
     String PlateNo;
@@ -15,6 +15,8 @@ public class VehicleDetails {
         System.out.println("Registration Year : " + this.Year);
         System.out.println("First Registered  : " + this.FirstRegistered);
         System.out.println("Car Colour  : " + this.Colour);
+
+        System.out.println(" ");
     }
     VehicleDetails(String PlateNo, String Make, String Model, int Year, String FirstRegistered, String Colour){
         this.PlateNo = PlateNo;
